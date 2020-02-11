@@ -8,9 +8,11 @@
   margin: 0 auto;
   padding: 0;
 }
+.infoCardCallActionContainer {
+  max-width: 1260px;
+}
 
 .infoCardCallActionContainer :global(.vtex-button) {
-  max-width: 1260px;
   color: black;
   background-color: gray;
   border: transparent;
