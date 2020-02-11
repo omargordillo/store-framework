@@ -1,7 +1,8 @@
 {
-  "store.home": { 
-    "blocks": [
-      
-    ]
+  "store.home": {
+    "blocks": ["rich-text"]
+  },
+  "rich-text": {
+    "props": {}
   }
 }
