@@ -3,6 +3,9 @@
     "blocks": ["rich-text"]
   },
   "rich-text": {
-    "props": {}
+    "props": {
+      "text": "*Hello, World! 2020*",
+      "textPosition": "CENTER"
+    }
   }
 }
