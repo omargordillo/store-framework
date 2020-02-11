@@ -4,7 +4,7 @@
   },
   "rich-text": {
     "props": {
-      "text": "*Hello, World! 2020*",
+      "text": "*Hello, World!* 2020",
       "textPosition": "CENTER"
     }
   }
